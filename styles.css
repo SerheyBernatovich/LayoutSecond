@@ -10,7 +10,6 @@
   background-color: #334247;
   max-width: 380px;
   min-height: 770px;
-  overflow: hidden;
   margin-left: 18px;
   position: relative;
 }
@@ -62,9 +61,6 @@
 }
 .price-card__options_item::nth-child(2n-1) {
   background-color: #2a3438;
-}
-.price-card__options_item > img {
-  margin-right: 22px;
 }
 
 .price-card__title-top-line {
