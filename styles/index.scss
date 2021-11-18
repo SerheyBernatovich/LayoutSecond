@@ -1,22 +1,9 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-@import 'card';
+@import 'variables.scss';
 
-body {
-  background-color: #141b1c;
-  font-family: 'Montserrat';
-  font-weight: 300;
-  font-size: 15px;
-  line-height: 18px;
-  color: #fff;
+html {
+  font-family: 'Montserrat', sans-serif;
+  color: $text-white-color;
 }
-main {
-  display: flex;
-  flex-direction: row;
-  min-height: 100vh;
-  align-items: center;
-  justify-content: center;
-}
+
+@import 'common.scss';
+@import 'card.scss';
