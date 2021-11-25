@@ -1,19 +1,15 @@
 ## Price Table
 
-Responsive from device width 320px
-
-Used technologies
-
-HTML5
-
-CSS3
-
-Flexbox
-
-SASS
-
-BEM methodology
-
 [link](https://serheybernatovich.github.io/LayoutSecond/)
 
-Developed by Serhey Bernatovich
+**Responsive from device width 320px**
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [Flexbox](https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout)
+- [SASS](https://sass-lang.com/)
+- [BEM methodology](https://en.bem.info/methodology/)
+
+Author
+
+Serhey Bernatovich
