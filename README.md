@@ -1,6 +1,6 @@
 ## Price Table
 
-[link](https://serheybernatovich.github.io/LayoutSecond/)
+[Site link](https://serheybernatovich.github.io/layoutSecond/)
 
 **Responsive from device width 320px**
 
